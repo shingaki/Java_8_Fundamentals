@@ -39,3 +39,4 @@ public class Comparison
          System.out.printf("%d >= %d%n", number1, number2);
    } // end method main
 } // end class Comparison
+
